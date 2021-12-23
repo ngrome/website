@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ngrome-dev"
+  },
+  "targets": {
+    "ngrome-dev": {
+      "hosting": {
+        "community-website": [
+          "ngrome-dev"
+        ]
+      }
+    }
+  }
+}
